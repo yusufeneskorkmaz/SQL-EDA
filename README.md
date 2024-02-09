@@ -15,3 +15,8 @@ This project showcases proficiency in SQL through the following aspects:
 - **Data Transformation**: SQL has been used to transform and manipulate the dataset as needed, facilitating the calculation of derived metrics and the preparation of data for analysis.
 - **Exploratory Data Analysis**: Through SQL queries, exploratory data analysis has been performed to gain insights into the distribution, trends, and relationships within the dataset. This includes analyzing the distribution of battery capacities, ranges, speeds, accelerations, as well as examining the popularity of different brands and models.
 - **Data Aggregation and Summarization**: SQL aggregation functions have been utilized to summarize key metrics and statistics, providing a comprehensive overview of the dataset.
+
+
+## Tables
+
+[![capture-20240209224345867.png](https://i.postimg.cc/rmPPbwbM/capture-20240209224345867.png)](https://postimg.cc/R6wdJ44D)
